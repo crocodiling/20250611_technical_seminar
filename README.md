@@ -1,0 +1,1 @@
+# 20250611_technical_seminar
