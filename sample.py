@@ -1,0 +1,1 @@
+print("Dockerで正しくpythonが実行できています")
