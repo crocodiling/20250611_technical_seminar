@@ -1,1 +1,5 @@
 # 20250611_technical_seminar
+202050611の技ゼミ用のリポジトリです．こちらをデスクトップにgit cloneしてください．
+このリポジトリには，Dockerfile,requirements.txt,sample.pyというファイルが入っています．
+こちらのDockerfileをbuildしたのち，コンテナを作成することで，sample.pyを実行することができます．
+また，requirements.txtについてですが，特に何も記載しなくてOKです．flask，numpyなどを記載することにより，モジュールを利用することができます．
